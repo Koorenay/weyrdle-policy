@@ -18,7 +18,7 @@ Weyrdle peut collecter des statistiques sur le comportement des utilisateurs de 
 Bien que la plupart des changements soient probablement mineurs, Weyrdle peut modifier sa politique de confidentialité de temps à autre, et à la seule discrétion de Weyrdle. Weyrdle encourage les visiteurs à consulter fréquemment cette page pour prendre connaissance des modifications apportées à sa politique de confidentialité. 
 Votre utilisation continue de cette application après toute modification de cette politique de confidentialité constituera votre acceptation de cette modification.
 
-Dernière mise à jour le 24 juin 2024.
+Dernière mise à jour le 07 juillet 2024.
 
 
 
