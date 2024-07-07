@@ -11,9 +11,6 @@ Weyrdle peut collecter des informations non personnelles, telles que le type d'a
 # Sécurité
 La sécurité de vos informations personnelles est importante pour nous, mais n'oubliez pas qu'aucune méthode de transmission sur Internet ou de stockage électronique n'est sûre à 100 %. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos informations personnelles, nous ne pouvons pas garantir leur sécurité absolue.
 
-# Annonces
-Les publicités apparaissant dans notre application peuvent être diffusées aux utilisateurs par des partenaires publicitaires. Nous n'utilisons que des réseaux publicitaires approuvés par Google pour assurer la sécurité de vos informations personnelles conformément à vos préférences.
-
 # Statistiques globales
 Weyrdle peut collecter des statistiques sur le comportement des utilisateurs de son application. Weyrdle peut afficher ces informations publiquement ou les fournir à d'autres. Cependant, Weyrdle ne divulgue pas vos informations d'identification personnelle.
 
